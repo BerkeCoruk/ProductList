@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/BerkeCoruk/ProductList",
+  "homepage": "https://berkecoruk.github.io/ProductList/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
